@@ -42,6 +42,6 @@
     "uilayout": "vscode-terminal-split"
   },
   "backend": {
-    "imageid": "golang:1.14"
+    "imageid": "nodejs:12"
   }
 }
